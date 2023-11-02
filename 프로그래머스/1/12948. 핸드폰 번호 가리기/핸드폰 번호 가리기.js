@@ -10,7 +10,5 @@ function solution(phone_number) {
     let bbb =(front.split('')).map((el)=>  "*")
     
    return (String(bbb.concat(aaa).join('')))
-   // let dfdf =(front.split('')).map((el)=>  "*").join('');
-    
-    
+   
 }
